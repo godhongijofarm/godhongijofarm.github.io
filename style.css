@@ -60,7 +60,7 @@ a {
 }
 
 .bg-image {
-    background-image: url(image/01.jpg);
+    background-image: url(image/01m.jpg);
     background-size: cover;
     background-position: center;
     padding: 200px 0px;
@@ -161,7 +161,7 @@ a {
 }
 
 .bg-aku {
-    background: rgba(55, 108, 94, 0.65) url(image/10familly.jpg);
+    background: rgba(55, 108, 94, 0.65) url(image/03bg.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     background-repeat: no-repeat;
@@ -179,7 +179,7 @@ a {
 
 
 .bgg-aku {
-    background: #212424 url(image/21hourse.jpg);
+    background: #212424 url(image/04bg.jpg);
 
     background-blend-mode: overlay;
     background-repeat: no-repeat;
