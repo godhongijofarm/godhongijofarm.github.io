@@ -57,11 +57,12 @@ a {
 }
 
 .bg-image {
-  background-image: url(image/01moab.jpg);
+  background: rgba(55, 108, 94, 0.65) url(image/01moab.jpg);
   background-size: cover;
   background-position: center;
   padding: 200px 0px;
   position: relative;
+  background-blend-mode: overlay;
 }
 
 .my-hr {
