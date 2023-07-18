@@ -34,7 +34,7 @@ $("#navbarSupportedContent .nav-item .nav-link").on("click", function () {
 });
 
 // atur waktu akhir countdown
-var countDownDate = new Date("June 28, 2023 00:00:00").getTime();
+var countDownDate = new Date("June 16, 2024 00:00:00").getTime();
 
 // perbarui countdown setiap 1 detik
 var x = setInterval(function () {
